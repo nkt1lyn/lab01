@@ -152,80 +152,80 @@ header-includes:
 9. Индексируем изменения  
 ![рис. 9](images/image009.png)
 10. Коммит изменений  
-![рис. 10](images/image0010.png)  
-![рис. 11](images/image0011.png)
+![рис. 10](images/image010.png)  
+![рис. 11](images/image011.png)
 11. Добавляем стандартные теги страницы  
-![рис. 12](images/image0012.png)  
-![рис. 13](images/image0013.png)  
-![рис. 14](images/image0014.png)  
-![рис. 15](images/image0015.png)  
-![рис. 16](images/image0016.png)  
+![рис. 12](images/image012.png)  
+![рис. 13](images/image013.png)  
+![рис. 14](images/image014.png)  
+![рис. 15](images/image015.png)  
+![рис. 16](images/image016.png)  
 12. История изменений  
-![рис. 17](images/image0017.png)  
-![рис. 18](images/image0018.png)  
+![рис. 17](images/image017.png)  
+![рис. 18](images/image018.png)  
 13. Получение старых версий  
-![рис. 19](images/image0019.png)  
-![рис. 20](images/image0020.png)  
+![рис. 19](images/image019.png)  
+![рис. 20](images/image020.png)  
 14. Создание тегов версий  
-![рис. 21](images/image0021.png)  
-![рис. 22](images/image0022.png)  
-![рис. 23](images/image0023.png)  
-![рис. 24](images/image0024.png)  
+![рис. 21](images/image021.png)  
+![рис. 22](images/image022.png)  
+![рис. 23](images/image023.png)  
+![рис. 24](images/image024.png)  
 15. Переключение по имени тега  
-![рис. 25](images/image0025.png)  
-![рис. 26](images/image0026.png)  
+![рис. 25](images/image025.png)  
+![рис. 26](images/image026.png)  
 16. Просмотр тегов с помощью команды tag  
-![рис. 27](images/image0027.png)  
+![рис. 27](images/image027.png)  
 17. Переключаемся на ветку master  
 18. Изменяем файл hello.html  
 19. Проверяем состояние  
-![рис. 28](images/image0028.png)  
+![рис. 28](images/image028.png)  
 20. Отменяем изменения в рабочем каталоге  
-![рис. 29](images/image0029.png)  
+![рис. 29](images/image029.png)  
 21. Измененяем файл и индексируем изменения  
-![рис. 30](images/image0030.png)  
+![рис. 30](images/image030.png)  
 22. Проверьте состояние  
-![рис. 31](images/image0031.png)  
+![рис. 31](images/image031.png)  
 23. Выполняем сброс буферной зоны  
-![рис. 32](images/image0032.png)  
+![рис. 32](images/image032.png)  
 24. Переключаемся на версию коммита  
-![рис. 33](images/image0033.png)  
+![рис. 33](images/image033.png)  
 25. Отменяем коммит  
-![рис. 34](images/image0034.png)
+![рис. 34](images/image034.png)
 26. Изменяем файл и делаем коммит  
-![рис. 35](images/image0035.png)
+![рис. 35](images/image035.png)
 27. Делаем коммит с новыми изменениями, отменяя предыдущие  
-![рис. 36](images/image0036.png)
+![рис. 36](images/image036.png)
 28. Проверяем лог  
-![рис. 37](images/image0037.png)
+![рис. 37](images/image037.png)
 29. Выполняем команду git reset  
 30. Проверяем историю  
-![рис. 38](images/image0038.png)
+![рис. 38](images/image038.png)
 30. Отмечаем ветку  
-![рис. 39](images/image0039.png)
+![рис. 39](images/image039.png)
 31. Делаем сброс коммитов к предшествующим коммиту Oops  
-![рис. 40](images/image0040.png)
+![рис. 40](images/image040.png)
 32. Удаление тега Oops  
-![рис. 41](images/image0041.png)
+![рис. 41](images/image041.png)
 33. Изменяеем страницу и делаем коммит  
-![рис. 42](images/image0042.png)
+![рис. 42](images/image042.png)
 34. Изменяем предыдущий коммит  
-![рис. 43](images/image0043.png)
+![рис. 43](images/image043.png)
 35. Перемещаем файл hello.html в каталог lib  
-![рис. 44](images/image0044.png)
+![рис. 44](images/image044.png)
 36. Делаем коммит в новый каталог  
-![рис. 45](images/image0045.png)
+![рис. 45](images/image045.png)
 37. Добавляем файл Index.html  
-![рис. 46](images/image0046.png)
-![рис. 47](images/image0047.png)
+![рис. 46](images/image046.png)
+![рис. 47](images/image047.png)
 38. Каталог .git  
-![рис. 48](images/image0048.png)
+![рис. 48](images/image048.png)
 39. Углубляемся в базу данных объектов  
-![рис. 49](images/image0049.png)
+![рис. 49](images/image049.png)
 40. Открываем Config файл  
-![рис. 50](images/image0050.png)
+![рис. 50](images/image050.png)
 41. Ветки и теги  
-![рис. 51](images/image0051.png)
+![рис. 51](images/image051.png)
 
 
 
