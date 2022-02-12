@@ -282,7 +282,7 @@ header-includes:
 ![рис. 99](images/image099.png)
 ![рис. 100](images/image100.png)
 70. Извлекаем общие изменения  
-![рис. 101](images/image0102.png)
+![рис. 101](images/image102.png)
 
 
 
