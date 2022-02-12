@@ -3,9 +3,9 @@
 title: "Отчет по лабораторной работе №1"  
 subtitle: "Использование git"  
 author: "Ильин Никита Евгеньевич"  
-group: NFIbd-01-19  
-institute: RUDN University, Moscow, Russian Federation  
-date: 2022 Feb 10th  
+group: "NFIbd-01-19"    
+institute: "RUDN University"  
+date: "2022 Feb 10th"  
 
 # Generic otions
 lang: ru-RU
